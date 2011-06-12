@@ -1,0 +1,1 @@
+This project contains a simple Spring REST project that demonstrates securing REST by signing query parameters. 
